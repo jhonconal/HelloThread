@@ -3,4 +3,4 @@ project(HelloThread)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(HelloCplus main.cpp AbstractThread.cpp AbstractThread.h UserServerThread.cpp UserServerThread.h UserClientThread.cpp UserClientThread.h)
+add_executable(HelloThread main.cpp AbstractThread.cpp AbstractThread.h UserServerThread.cpp UserServerThread.h UserClientThread.cpp UserClientThread.h)

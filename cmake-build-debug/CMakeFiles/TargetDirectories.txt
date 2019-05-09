@@ -1,0 +1,3 @@
+C:/Users/jhonconal/CLionProjects/HelloThread/cmake-build-debug/CMakeFiles/HelloThread.dir
+C:/Users/jhonconal/CLionProjects/HelloThread/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jhonconal/CLionProjects/HelloThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
